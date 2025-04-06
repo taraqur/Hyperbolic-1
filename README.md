@@ -39,3 +39,9 @@ nano chatbot.py
 ```
 python3 chatbot.py
 ```
+
+**6. Join Discord
+
+Stay Active their discord
+
+📱 Discord — https://discord.gg/hyperbolic
